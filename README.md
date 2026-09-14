@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🎓 4th grade HTL Kaindorf student<br>💻 Interested in WebDev
+🎓 5th grade HTL Kaindorf student<br>💻 Interested in WebDev
 
 
 # Tech Stack:
